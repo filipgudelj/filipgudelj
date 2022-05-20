@@ -1,6 +1,6 @@
 ### Hi, I'm Filip 👋
 
-<img src="https://user-images.githubusercontent.com/101806677/169528837-2913dddf-017c-4c86-80ff-10e51a927ad2.png" align="right" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/101806677/169533517-8578556b-ca0a-4210-b3fd-c0e3584cf635.png" align="right" width="150" height="150">
 
 - :eyes: I'm interested in Web Development
 - 🔭 I’m currently working on my final year's project
